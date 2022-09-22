@@ -1,2 +1,5 @@
 # Resort_Replica
-Project for HTML
+Project is based on HTML and CSS
+
+
+
