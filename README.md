@@ -2,8 +2,9 @@
 Resort Replica Project 
  This folder contains web pages created using HTML & CSS. This folder contains a Resort replica website. 
  I have used:
-
+ 
 HTML
+
 CSS
 for creating this web site.
 
